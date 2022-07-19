@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Http",
+    "\\app\\Http\\Controllers",
+    "\\app\\Models",
+    "\\database",
+    "\\database\\migrations",
+    "\\database\\seeders",
+    "\\routes",
+    "\\tests"
+  ],
+  "SelectedNode": "\\app\\Http\\Controllers\\Food_customization_optionController.php",
+  "PreviewInSolutionExplorer": false
+}
